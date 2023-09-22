@@ -1,0 +1,44 @@
+body{
+background-image: url(../img/wp9274684.webp);
+
+}
+
+main{
+    box-shadow: #0056b3;
+    font-family: 'Sedgwick Ave Display', cursive;
+    background-color: rgba(196, 223, 248, 0.582);
+    border: solid #333;
+    border-radius: 33px;
+}
+.resultado{
+    background-color: rgba(123, 186, 245, 0.326);
+    border: solid #333;
+    border-radius: 33px;
+    width: 500px;
+    height: 37px;
+}
+
+.custom-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 44px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Estilo quando o botão é clicado */
+.custom-button:active {
+  background-color: #0056b3;
+}
+
+.custom-textbox {
+    width: 300px;
+    padding: 10px;
+    border: 2px solid #d3daff;
+    border-radius: 44px;
+    font-size: 16px;
+    font-family: 'Sedgwick Ave Display', cursive;
+    color: #333;
+  }
